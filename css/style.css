@@ -50,6 +50,7 @@ ul li a {
   padding: 5px;
   text-decoration: none;
   color: purple;
+  font-family: "Lato", sans-serif;
 }
 ul li a:hover {
   color: gray;
@@ -91,6 +92,10 @@ ul li a:hover {
 h1 {
   color: purple;
   padding: 5px;
+  font-family: "Lato", sans-serif;
+}
+p {
+  font-family: "Karla", sans-serif;
 }
 .container {
   text-align: center;
@@ -131,6 +136,7 @@ h1 {
   font-weight: 600;
   font-size: large;
   border-radius: 50px;
+  font-family: "Lato", sans-serif;
 }
 .button:hover {
   background-color: rgba(70, 150, 193);
