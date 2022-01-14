@@ -89,6 +89,13 @@ ul li a:hover {
 .subscribe-input button:hover {
   background-color: gray;
 }
+.nav-icons {
+  float: right;
+}
+.nav-icons img {
+  max-width: 50px;
+}
+
 h1 {
   color: purple;
   padding: 5px;
