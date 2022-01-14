@@ -213,6 +213,6 @@ footer {
     padding-left: 35px;
   }
   .search-input {
-    display: none;
+    display: block;
   }
 }
